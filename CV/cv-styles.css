@@ -1,0 +1,19 @@
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box; 
+    width: 95%;
+}
+
+header h1{
+    padding-top: 15px;
+}
+.middle h2, footer h2{
+    padding-top: 30px;
+}
+.middle p, .middle li{
+    padding: 15px 0;
+}
+#refName{
+    padding-top: 15px;
+}
