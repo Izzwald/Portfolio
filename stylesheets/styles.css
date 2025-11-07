@@ -242,10 +242,21 @@ footer li{
     text-align: center;
     
 }
+
 .iMadeThis p{
     padding-top: 15px;
     font-size: 12px;
     font-weight: 100;
+}
+.iMadeThis a{
+    font-size: 12px;
+    text-decoration: none;
+}
+.iMadeThis a:link,.iMadeThis a:visited{
+    color:blue;
+}
+.iMadeThis a:hover{
+    text-decoration: underline;
 }
 
 /* CSS for other pages below */
